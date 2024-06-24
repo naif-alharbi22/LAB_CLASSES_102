@@ -46,3 +46,4 @@ The AccountManager class should have the following methods:
 
 - Provide a menu for the user to choose actions: add a bank account, display bank accounts, search for a bank account, delete a bank account , or exit.
 - Implement the logic to handle each menu option.
+- Use good practices, such as handling exceptions using Try...Except
