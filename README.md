@@ -12,7 +12,7 @@ Create a Python class called `BankAccount` that simulates a simple bank account.
 5. A method called `get_account_holder` that returns the name of the account holder.
 6. A method called `get_account_number` that returns the number of the account holder.
 
-#### Note: use modules (& packages if needed) to organize your code. 
+#### Note: OOP principle where applicable such as Encapsulation, Abstraction, etc. & Use modules (& packages if needed) to organize your code. 
 
 ---------
 
